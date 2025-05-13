@@ -1,0 +1,7 @@
+job00
+
+a = x+5
+a = (x=y) + 2
+a = x == y
+(a<b) && (c<d) //Garder les parenthèses pour meilleure visibilité
+i++ * (n+p)

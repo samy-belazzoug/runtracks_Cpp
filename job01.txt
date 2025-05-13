@@ -1,0 +1,10 @@
+job01
+
+NAME |	   TYPE      | VALUE
+
+ c	     char	        1
+ p	     short int	    10
+ x	     int		    13	//p est promu à int, donc c'est un int
+ y	     int		    2	//c est char promu à int
+ z	     int            11	//p = short int promu à int, c = char promu à int
+ w	     int	        35	//tout est en int..
