@@ -1,0 +1,7 @@
+Pour : 
+
+n = 0 : 'Nul' 
+n = 1 :
+n = 4 : 
+n = 10 : 'Grand'
+n = -5 : 'Grand'
