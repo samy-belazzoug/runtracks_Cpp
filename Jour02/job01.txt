@@ -1,0 +1,7 @@
+int n;
+do {
+    cout << "donnez un nombre >0 ";
+    cin >> n;
+}
+
+while (n<=0)
